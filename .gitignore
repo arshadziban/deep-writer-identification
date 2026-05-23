@@ -48,6 +48,8 @@ Thumbs.db
 
 # Data files
 dataset/
+dataset_v2/
+dataset_main/
 dataset.txt
 # *.csv
 # *.tsv
